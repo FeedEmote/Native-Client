@@ -11,15 +11,12 @@ export default class Login extends Component {
     return (
       <View style={[styles.container, styles.center]}>
 
-        <TouchableOpacity onPress={() => {
-          this.props.navigator.immediatelyResetRouteStack([this.props.routes[1]])}
-          
-        }>
-          <Image style={styles.googleSignIn} source={require('../images/googleSignIn.png')} />
+        <TouchableOpacity onPress={() => this.props.navigator.immediatelyResetRouteStack([this.props.routes[1]])}>
+          <Image style={styles.signInButton} source={require('../images/googleSignIn.png')} />
         </TouchableOpacity>
       
         <TouchableOpacity>
-          <Image style={styles.facebookSignIn} source={require('../images/facebookSignIn.png')} />
+          <Image style={styles.signInButton} source={require('../images/facebookSignIn.png')} />
         </TouchableOpacity>
       
       </View>
