@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-03a23b3e399ffc8e221d6efbc67ec7a398b2fd1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\FeedEmote\react-native-fileupload\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1393d4f6d21737774664ba08a9d1d2274541fba1">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-fbcb6bc2949b12e6f29d22bbe65e193a090ecd05.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-7dbfbf09e7bae2723186a69f560510b62f0aea6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-10ae358af2ac787c375858c353c2a03f730cd4ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-5f3eadee07701609276f4a4ae8ab5bbe93295396.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-7dca3fc552f151215820c4c74a18c67b1b1984b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-5d31c55e7b9ff8c31079794cda85bfc8f77bed31.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-1aeb86f19667b9b5ebc61dc58cf90605b8f204f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-624af0322db3c89ae81f22e855f0c2fc4d005427.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-24cd0bc77fb4a1453fe5cd0f14829f9dee99aff6.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-c5f1a61d21462576154ca69710308fbaf032d685.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-59a01e66545b84a45d5d78f6cfa3938ad750dde4.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-ffb1d857d1e4e88085b4e652aa64cd9ff870db3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-314d9ea41b8f5650a66ee88cdf2310f50a78961f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-6f22d2420c0553ffcbd9c5fef507bd988917a221.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-83581f447c6de397c7e89cd9d64a4c7a362def74.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-e9f07dcc78b763f7a4ff9986b964cf544024ed6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-aac6f8e7bede07349cc0486e15af3b0cef47350a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-70916294551b472348ed39c6558f5c1609071d7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-4e1eca2cf4fa10a9882e66ff66500e07c211dc18.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-763247724c48d68cd47f2534a6b9c3f7714bc29c.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\core-3.2.1-d5b29a9370103cce48271411e7e453e1ffec5e58.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-980732b24d3c046bd9e11b034b13fbba66051d50.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1-bc88be50974dfb66a8c7a2e4ea273e33000b0b60.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\FeedEmote\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9b2e6f0943eed897e96236898f89a80ebda260a8">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-4cc0b488f624d922a4da62c701e93a30bfe4c895.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2-1005771adfa191f589a73b5b9fbfebf5ee7ba1e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-6eee21ab0728039aae41060931d7b5a8ca5e1f5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\exploded-aar\FeedEmote\react-native-fs\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="760a4b76c90d5998848807361e23dfb3e1d8b8d2">
+        <dex dex="C:\Users\MaasLalani\Documents\Apps\FeedEmote\android\app\build\intermediates\pre-dexed\debug\classes-ada8b6c245d9999a9a5b9659fde835cf0efeb1e2.jar" />
+    </item>
+
+</items>
