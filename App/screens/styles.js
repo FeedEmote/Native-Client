@@ -1,14 +1,6 @@
 import { StyleSheet, Dimensions } from 'react-native'
 
 export default styles = StyleSheet.create({
-  loginButton: {
-
-  },
-  accountActionSignup: {
-
-  },
-  wrapper: {
-  },
   camera: {
     backgroundColor: 'black',
   },
@@ -24,45 +16,26 @@ export default styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center'
   },
-  logo: {
-
-  },
-  loginButtons: {
-    backgroundColor: 'black',
-    flex: 1
-  },
-  googleSignIn: {
+  signInButton: {
     width: 300,
     height: 50,
     margin: 10
   },
-  facebookSignIn: {
-    width: 300,
-    height: 50,
-    margin: 10
+  captureButton: {
+    width: 70,
+    height: 70,
+    borderRadius: 35,
+    margin: 20,
+    justifyContent: 'center',
+    alignItems: 'center'
   },
   startCapture: {
-    width: 70,
-    height: 70,
-    borderRadius: 35,
-    backgroundColor: 'white',
-    margin: 20,
-    justifyContent: 'center',
-    alignItems: 'center'
+    backgroundColor: 'white'
   },
   stopCapture: {
-    width: 70,
-    height: 70,
-    borderRadius: 35,
     backgroundColor: '#EE7766',
-    margin: 20,
-    justifyContent: 'center',
-    alignItems: 'center'
   },
-  startCaptureText: {
-    padding: 9
-  },
-  stopCaptureText: {
+  captureText: {
     padding: 9
   }
 })
